@@ -1,0 +1,4 @@
+Sastrawi
+pandas
+nltk
+gdown
